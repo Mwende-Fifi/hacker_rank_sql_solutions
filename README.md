@@ -1,6 +1,7 @@
 # **HackerRank SQL solutions**
 
 ## **Description**
+This file contains decriptives of the HackerRank SQL questions
 
 ### **Domains**
 
